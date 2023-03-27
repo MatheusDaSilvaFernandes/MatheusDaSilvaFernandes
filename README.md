@@ -25,7 +25,6 @@
   
   <img align="center" alt="-linux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="-wind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
- 
 
 </div>
   
